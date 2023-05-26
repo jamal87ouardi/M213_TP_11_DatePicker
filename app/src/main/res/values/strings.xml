@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">M212_TP_11_Java_Spinner</string>
+    <string-array name="phones">
+        <item>Sk</item>
+        <item>So</item>
+        <item>Tk</item>
+    </string-array>
+
+</resources>
